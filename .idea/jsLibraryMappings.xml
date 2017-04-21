@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{angular, angular-material, dojo, ext-core, hammer, indefinite-observable, jquery, mootools, prototype, scriptaculous, spf, swfobject, three, webfont}" />
+  </component>
+</project>
